@@ -3,7 +3,7 @@
 
 int main()
 {
-    WaifuBot bot("Nzg4NDY4MTUxMjAwNTE0MDg4.X9j8MA.rISiYfqxwzJTwU9XtAWQ1IR7eJw");
+    WaifuBot bot("token");
 
     bot.cluster_spawn(1, 1);
     bot.cluster_start();
