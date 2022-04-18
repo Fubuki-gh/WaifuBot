@@ -54,7 +54,7 @@ void AboutCommand::on_form_submit(dpp::cluster* cluster, const dpp::form_submit_
     dpp::embed de;
 
     de.set_title(fmt::format("Feedback from {}#{} ({})", event.command.usr.username, event.command.usr.discriminator, event.command.usr.id));
-    de.set_color(EMBED_COLOR);
+    de.set_color(EMBED_COLOR_DEV);
     de.set_description(v);
 
     dm.add_embed(de);
