@@ -22,4 +22,4 @@ Nothing yet :(
 Here is a list of libraries that the bot uses.
 
 - [D++ (Discord library)](https://github.com/brainboxdotcc/DPP "Best discord library")
-- [spdlog (Logging library)](https://github.com/gabime/spdlog)
+- [spdlog (Logging library)](https://github.com/gabime/spdlog) (Not in use atm)
